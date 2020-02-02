@@ -1,0 +1,28 @@
+.main-page{
+  background-size: cover;
+ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+
+}
+.main-page.back.black{
+  background: rgb(21, 129, 211);
+
+}
+.container-size{
+  width:300px;
+
+}
+.weather-form{
+  border-radius: 31px !important;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background: white;
+  min-height: 300px;
+}
