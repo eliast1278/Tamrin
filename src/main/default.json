@@ -1,0 +1,5 @@
+{
+    "register":"/Signup",
+    "login":"/Signin",
+    "server":"196.9.164.199:3004"
+}

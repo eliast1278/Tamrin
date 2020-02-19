@@ -10,7 +10,8 @@
 
 }
 .main-page.back.black{
-  background: rgb(21, 129, 211);
+  background:#EA5455;
+
 
 }
 .container-size{
@@ -25,4 +26,36 @@
   justify-content: center;
   background: white;
   min-height: 300px;
+}
+.weather-form input{
+padding: 1rem;
+margin:0.5rem;
+border: solid 1px ;
+border-radius: 15px;
+border-color: #FEB692;
+
+
+}
+..container-size input{
+ 
+
+}
+.container-size span{
+ color: red;
+ font-size: small;
+
+}
+input.is-invalid {
+  background-position: center left calc(.5em) !important;
+  padding: 10px !important;
+  border-color: red;
+}
+.container-size button{
+  background-color: #FEB692;
+  border: none;
+ outline: #EA5455;
+ box-shadow: #EA5455 !important;
+ }
+.btn-focus{
+  box-shadow: none;
 }
